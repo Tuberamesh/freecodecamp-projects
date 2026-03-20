@@ -22,4 +22,4 @@ certification by freeCodeCamp.
 - SciPy
 
 ## 📜 Certification
-[freeCodeCamp Data Analysis with Python] https://freecodecamp.org/certification/decoder_space/data-analysis-with-python-v7
+[freeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/certification/decoder_space/data-analysis-with-python-v7)
